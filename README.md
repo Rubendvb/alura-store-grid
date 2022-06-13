@@ -1,6 +1,6 @@
 # Alura Store
 
-![Clique aqui e veja o resultado](https://)
+![Clique aqui e veja o resultado](https://rubendvb.github.io/alura-store-grid/)
 
 ## About <a name = "about"></a>
 
