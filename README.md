@@ -1,6 +1,6 @@
 # Alura Store
 
-[Clique aqui e veja o resultado](https://rubendvb.github.io/alura-store-grid/)
+[Clique aqui e veja o resultado](https://alura-store-grid.vercel.app/)
 
 ## About <a name = "about"></a>
 
